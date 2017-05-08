@@ -1,0 +1,21 @@
+- By using the diff command, files can be compaired easily. When a bug occures after a
+change is made to a file, the difference will tell why it is not working no more.
+
+- When having the ability to access the history of a file, older better working parts of 
+the file can be found more easily and can help improve the current file.
+
+- The pros are that you can choose when to commit, so more often when this is needed. 
+The cons are that the chance is bigger that you forget to commit.
+
+- Because code files have a lot more interconnection with eachother while documents 
+are often more seperated from eachother.
+
+- The log command will print the history of commits and with the diff command the 
+version of a file can be compaired.
+
+- By knowing that you can restore older working version is it less of a problem to break
+a file/code.
+
+- I want to use Git for some simple code that I made in my Arduino projects to learn how
+it is working and to keep control of different versions. 
+
