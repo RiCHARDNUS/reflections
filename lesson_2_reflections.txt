@@ -1,0 +1,8 @@
+- Initializing a new repository will add a folder that collects all the meta 
+data off the repository. With this meta data the different version of a file can
+be tracked.
+
+- The staging area only contains files you want to keep track off and it offers a place
+where files can be collected before they are commited.
+
+
