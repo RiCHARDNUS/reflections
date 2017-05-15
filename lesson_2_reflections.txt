@@ -5,4 +5,17 @@ be tracked.
 - The staging area only contains files you want to keep track off and it offers a place
 where files can be collected before they are commited.
 
+- By only adding the file that belong to one logical change and before commiting 
+checking the difference between those files and the last commit or current files.
 
+- By using branches you can make changes to a program that may break it and keep the
+original file at the same time. This makes is easier to experiment.
+
+- By drawing the branches the structure will be easier understandable and it is clear
+in one view how the branches are connected to eachother.
+
+- When merging two branches together, we add the functionality from the one branch to
+the other. Branches are parralel to the master branch.
+
+- Automatic merging is nice since you don't have to do anything. But at the same thing
+you let lose of the controls and don't know what is happening.
