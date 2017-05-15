@@ -1,0 +1,3 @@
+- If you are working with a group of people or as a backup so that your're work doesn't get lost when your computer breaks down.
+
+- When some of your teammembers adds something to the repository, this could mesh up the repository your are working on at the moment.
